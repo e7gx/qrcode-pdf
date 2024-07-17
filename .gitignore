@@ -163,5 +163,5 @@ cython_debug/
 .venv/
 .env/
 
-face vision/me.jpg
-face vision/image.png
+me.jpg
+image.png
