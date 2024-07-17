@@ -163,5 +163,5 @@ cython_debug/
 .venv/
 .env/
 
-me.jpg
-image.png
+me.jpg/
+image.png/
