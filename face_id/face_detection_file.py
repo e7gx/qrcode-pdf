@@ -19,9 +19,6 @@ counter = 0
 # Load reference images
 reference_images = {
     'Abdullah ': cv2.imread('face_id/me.jpg'),
-        'Abdullah ': cv2.imread('face_id/me.jpg'),
-    'Abdullah ': cv2.imread('face_id/me.jpg'),
-
 }
 
 # Initialize dictionary to store face match results
